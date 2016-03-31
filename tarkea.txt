@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 alkua muokattu rivi tekstiä muutama rivi tekstiä rivi tekstiä
  muutama muutama rivi tekstiä muutama rivi tekstiä rivi tekstiämuutama muutama rivi tekstiä muutama rivi tekstiä rivi tekstiä
+=======
+muutama muutama rivi tekstiä muutama rivi tekstiä rivi tekstiä
+ muutama muutama rivi tekstiä muutama rivi tekstiä rivi tekstiämuutama muutama rivi tekstiä muutama rivi loppu muokattu
+>>>>>>> toka
